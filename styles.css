@@ -1,0 +1,29 @@
+html{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.left{
+    width: 260px;
+    height: 1000px;
+    background-color: gray;
+    position: absolute;
+}
+
+.right{
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    width: 400px;
+    height: 1000px;
+    left: 285px;
+}
+
+h4, h5, p{
+    margin: 0;
+}
+
+h3{
+    background-color: pink;
+    color: black;
+}
